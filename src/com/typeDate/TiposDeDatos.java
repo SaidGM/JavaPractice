@@ -32,5 +32,13 @@ public class TiposDeDatos {
         //tipo envoltorio
 
         Integer numero = null;
+
+        if (true){
+
+        }else{
+
+        }
+
+
     }
 }

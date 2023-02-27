@@ -1,7 +1,7 @@
 package com.typeDate;
 
-public class ByeWorld {
+public class HolaMundo {
     public static void main(String[] args) {
-        System.out.println("Adios mundo");
+        System.out.println("Hola mundo");
     }
 }
