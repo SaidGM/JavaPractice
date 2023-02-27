@@ -1,6 +1,6 @@
-package com.company;
+package com.typeDate;
 
-public class HelloWorld {
+public class TiposDeDatos {
     public static void main(String[] args){
 
         //enteros

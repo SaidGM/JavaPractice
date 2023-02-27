@@ -1,4 +1,4 @@
-package com.company;
+package com.typeDate;
 
 public class ByeWorld {
     public static void main(String[] args) {
