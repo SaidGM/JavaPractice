@@ -1,4 +1,4 @@
-package com.typeDate;
+package com.company;
 
 public class HolaMundo {
     public static void main(String[] args) {
