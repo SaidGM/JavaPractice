@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d5732b9-d999-47c4-8a1c-71dc23da60ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CocheMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FoorLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CocheElectrico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/typeDate/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Funciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/typeDate/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HolaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/typeDate/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Operadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/typeDate/TiposDeDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TiposDeDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CocheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CocheMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Said/Desktop/Full Stack/Week two/First proyect&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lapbcnprovisional001/Desktop/Full Stack/java-basic",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.CocheMain">
     <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CocheMain" />
@@ -136,8 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677492461981</updated>
+      <workItem from="1677683460360" duration="1458000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
